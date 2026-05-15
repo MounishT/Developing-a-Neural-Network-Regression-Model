@@ -71,8 +71,8 @@ y_train_tensor = torch.tensor(y_train, dtype=torch.float32).view(-1, 1)
 X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
 y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1, 1)
 
-# Name:T Ajay
-# Register Number:212223230007
+# Name:T Mounish
+# Register Number:212223240098
 class NeuralNet(nn.Module):
   def init(self):
         super().init()
@@ -129,8 +129,7 @@ print(f'Prediction: {prediction}')
 
 ### Dataset Information
 ### OUTPUT
-
-<img width="282" height="36" alt="image" src="https://github.com/user-attachments/assets/bdc3b86c-941d-42bb-ac6e-7879469f860b" />
+<img width="426" height="57" alt="image" src="https://github.com/user-attachments/assets/10b7c100-3871-4608-8016-aeb835f860a0" />
 
 
 
@@ -139,7 +138,8 @@ print(f'Prediction: {prediction}')
 
 
 ### New Sample Data Prediction
-<img width="311" height="42" alt="image" src="https://github.com/user-attachments/assets/1bada11f-8bfd-404e-9f6b-1e45feeb092e" />
+
+<img width="502" height="50" alt="image" src="https://github.com/user-attachments/assets/91f93b46-c0be-4ce5-8ad1-40f446c03b42" />
 
 
 ## RESULT
